@@ -1,7 +1,9 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.' <ul class="actions">
+			<li><a href="generic.html" class="button next">Get Started</a></li>
+		</ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
